@@ -1,3 +1,3 @@
 # hello-world
 
-Sometimes in legacy codebases, where style guidelines are not enforced, I suspect there to be a Whitespace program hidden in the code. This is what it would look like for Java.
+Have you ever seen terrible code where spaces and tabs are mixed and intendation is seemingly random? Instead of interpreting it as people being incompetent or not caring, I choose to believe that there are Whitespace programs hidden in there. Like in this Hello World in both Java and Whitespace. Not sure if that is actually better though.
